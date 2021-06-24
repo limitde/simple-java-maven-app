@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a3cca9a-29c3-4aa2-b804-93e0c88fba98" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624467951347</updated>
-      <workItem from="1624467952952" duration="8019000" />
+      <workItem from="1624467952952" duration="8435000" />
     </task>
     <task id="LOCAL-00001" summary="Add initial Jenkinsfile">
       <created>1624496216582</created>
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624514921641</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change mvn -v 3.6.3">
+      <created>1624531265078</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624531265078</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add initial Jenkinsfile" />
     <MESSAGE value="Add 'Test' stage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 'Test' stage" />
+    <MESSAGE value="change mvn -v 3.6.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="change mvn -v 3.6.3" />
   </component>
 </project>
