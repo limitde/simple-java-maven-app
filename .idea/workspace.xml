@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4a3cca9a-29c3-4aa2-b804-93e0c88fba98" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624467951347</updated>
-      <workItem from="1624467952952" duration="8435000" />
+      <workItem from="1624467952952" duration="11089000" />
     </task>
     <task id="LOCAL-00001" summary="Add initial Jenkinsfile">
       <created>1624496216582</created>
@@ -96,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624531265078</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change mvn -v 3.5">
+      <created>1624531608098</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624531608098</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +112,7 @@
     <MESSAGE value="Add initial Jenkinsfile" />
     <MESSAGE value="Add 'Test' stage" />
     <MESSAGE value="change mvn -v 3.6.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="change mvn -v 3.6.3" />
+    <MESSAGE value="change mvn -v 3.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="change mvn -v 3.5" />
   </component>
 </project>
